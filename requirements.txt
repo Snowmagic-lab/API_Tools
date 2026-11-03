@@ -1,0 +1,3 @@
+keyring  # optional: secure API key storage
+truststore  # recommended: uses your OS's certificates, so all valid HTTPS sites load
+playwright  # recommended: lets the AI use a real browser, driving your installed Edge or Chrome
